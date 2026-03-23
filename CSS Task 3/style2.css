@@ -1,0 +1,48 @@
+#container{
+    /* border: 2px solid red; */
+    /* color: 2px solid red; */
+    height: 900px;
+}
+#container1{
+       display:inline-block;
+
+}
+
+image{
+ 
+    width: 100%;
+}
+#container2{
+    display: inline-block;
+    padding-right:200px;
+    padding-left: 0px;
+    /* margin-right:0px;
+    margin-left: 0px;
+    padding-right: 100px; */
+}
+image{
+    width: 100%;
+}
+
+#container3{
+    display: inline-block;
+    /* margin-right:0px;
+    margin-left: 0px;
+    padding-right: 100px; */
+}
+image{
+    width: 100%;
+}
+
+#container4{
+      display: inline-block;
+}
+image{
+    width: 100%;
+}
+#container5{
+    display: inline-block;
+}
+image{
+    width: 100%;
+}
